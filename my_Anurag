@@ -2,3 +2,8 @@
 git commit -m "Initial commit"
 git branch -M main
 git push -u origin main
+
+1.How to comfigar git
+2. How to create EC2  instace.
+git config --global user.name "John Doe"
+git config --global user.email "rahul@gmail.com"
